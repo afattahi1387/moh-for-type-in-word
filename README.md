@@ -1,3 +1,3 @@
-# moh1391-for-type-in-word
+# moh-for-type-in-word
 
 این برای م.ف است که می خواسته است تا تایپ کند.
